@@ -1,130 +1,131 @@
-<h1 align="center">Hi 👋, I'm Satagopam Sai Harish</h1>
-<h3 align="center">💻 MERN Stack Developer | 🤖 AI/ML Enthusiast | 🎯 Problem Solver</h3>
+<!-- Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Satagopam Sai Harish</span></h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💡 Lifelong Learner</h3>
 
 <p align="center">
-  <a href="mailto:satagopamharish@gmail.com"><img src="https://img.shields.io/badge/Gmail-satagopamharish@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/SaiHarishSatagopam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sai%20Harish%20Satagopam-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:satagopamharish@gmail.com"><img src="https://img.shields.io/badge/Gmail-satagopamharish%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/SaiHarishSatagopam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/harish4207" target="_blank"><img src="https://img.shields.io/github/followers/harish4207?label=Follow&style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer;AI/ML+Practitioner;Open+Source+Contributor;Let's+Build+Smart+Things!&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Innovative+Code;MERN+Stack+Developer+%F0%9F%92%BB;AI+%2B+ML+Problem+Solver+%F0%9F%A7%AC;Open+Source+Contributor+%E2%9C%A8;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9B%A0" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a final-year CSE (AIML) student at **AITAM**, Andhra Pradesh
-- 🌱 Currently learning: **Next.js**, **AI Prompt Engineering**, and **TypeScript**
-- 🔭 I’m passionate about building full-stack web apps and solving real-world problems with AI
-- 🧠 Always exploring new technologies, contributing to **open source**, and participating in **hackathons**
+- 🎓 Final Year B.Tech CSE (AIML) @ AITAM, Andhra Pradesh  
+- 🧠 Fascinated by AI, ML, Blockchain & Scalable Web Systems  
+- 🔭 Currently building: full-stack apps, AI assistants, and real-world platforms  
+- 💬 Ask me about: MERN stack, Node.js, Machine Learning, or Resume Optimization  
+- 🎯 Goal: Build impactful solutions that make lives better  
+- ⚡ Fun fact: I debug faster with music 🎧
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,python,cpp,git,github,vscode,postman,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,java,python,cpp,git,github,vscode,postman,aws,azure,figma,vercel" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 💼 Professional Experience
 
-### 🧘 Yoga Vibe – Studio Management App  
-> **React + Node + TypeScript + MongoDB**  
-- 📅 Class scheduling, 🔐 authentication, 📊 admin dashboard, 💳 payment tracking  
-- Clean, responsive UI with complete CRUD features
+### 🔧 Full Stack Intern – Tech Spot Consulting LLC  
+_April 2024 – May 2024_  
+- Built responsive MERN stack apps  
+- Integrated REST APIs and real-time components  
+- Collaborated in Agile teams and daily standups  
+
+### 🤖 AI/ML Internship – APSCHE + AWS Academy  
+_June 2024 – Sep 2024_  
+- Learned supervised & unsupervised learning  
+- Built & deployed ML models using AWS tools  
+- Evaluated models using real-world datasets
+
+---
+
+## 🧠 Featured Projects
+
+### 🧘 Yoga Vibe  
+> *MERN + TypeScript + Admin Dashboard*  
+📅 Class Scheduling | 🧑‍💼 User Roles | 💳 Payment Gateway | 📊 Analytics
 
 ### 📄 AI Resume Analyzer  
-> **Python + Streamlit + NLP**  
-- Upload `.pdf/.docx/.txt` resumes, get **AI-driven feedback** & match score with JD  
-- Built using **Spacy, NLTK**, and **Scikit-learn**
+> *Python + NLP + Streamlit*  
+📁 Upload Resumes | 🤖 AI Score | 📈 Feedback against Job Descriptions
 
-### 🧾 Land Registration on Blockchain  
-> **Node.js + EJS + Smart Record Keeping**  
-- Secure land records on-chain  
-- Tamper-proof & verifiable workflows using a custom UI
+### 🧾 Land Registry on Blockchain  
+> *Node.js + EJS + Solidity-like structure*  
+🔐 Decentralized Ownership | 📜 Immutable Logs | ✅ Smart Verification UI
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish4207&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish4207&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harish4207&show_icons=true&theme=algolia&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish4207&layout=compact&theme=algolia&hide_border=false" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish4207&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish4207&theme=algolia&hide_border=false" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Showcase
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harish4207&theme=darkhub&margin-w=15&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harish4207&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 🎓 Education
+## 📜 Education
 
-- 🎓 **B.Tech - CSM (AIML)** @ AITAM, CGPA: 7.79 *(2022 – Present)*  
-- 🏫 Sri Chaitanya Jr College – Marks: 891/1000  
-- 🏫 Geetanjali School – Marks: 584/600
-
----
-
-## 💼 Internship Experience
-
-### 🔧 Tech Spot Consulting LLC (Full Stack Developer)  
-> *Apr 2024 – May 2024*  
-- Built MERN applications  
-- API integration & UI optimization  
-- Agile methodology participation
-
-### 🤖 AI-ML Virtual Internship – APSCHE (with AWS Academy)  
-> *Jun 2024 – Sep 2024*  
-- Trained on AI/ML fundamentals  
-- Built ML models using Python  
-- Deployed using AWS services
+- 🎓 **B.Tech - CSM (AI/ML)** | Aditya Institute of Tech & Mgmt – CGPA: 7.79  
+- 🏫 Sri Chaitanya Jr College (MPC) – Marks: 891 / 1000  
+- 🏫 Geetanjali School – Marks: 584 / 600  
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Certifications & Achievements
 
-- ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- ✅ MongoDB Associate Developer
-- ✅ GitHub Foundations & Git Advanced Security
-- 🥇 **PYQUEST Winner** at AITAM
-- 👨‍💻 **Techzite Hackathon** Participant – IIIT NUZVID
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+- ✅ MongoDB Associate Developer  
+- ✅ GitHub Foundations & Git Advanced Security  
+- 🥇 Winner – PYQUEST, AITAM  
+- 🧠 Hackathon Participant – Techzite @ IIIT Nuzvid  
 
 ---
 
 ## 🎯 Hobbies & Interests
 
-- 💻 Coding, building full-stack apps
-- 📖 Reading research papers on AI/ML
-- 🧑‍💻 Contributing to open-source & participating in hackathons
-- 🏏 Playing Cricket | 🏸 Badminton | 🎧 Music & Documentaries
+- 💻 Coding & Contributing to Open Source  
+- 📖 Reading AI blogs & research papers  
+- 🏏 Playing Cricket & 🏸 Badminton  
+- 🎧 Tech Podcasts & Documentaries  
+- 👨‍💻 Hackathons, Competitions, & Side Projects  
 
 ---
 
-## 📬 Let's Connect
+## 📬 Get in Touch
 
 <p align="center">
   <a href="mailto:satagopamharish@gmail.com"><img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/SaiHarishSatagopam"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/harish4207"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/harish4207"><img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+collaborate+or+reach+out+🚀;Happy+Coding+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let’s+connect+and+create+something+amazing+%F0%9F%9A%80;Happy+Coding+%F0%9F%92%BB+%7C+Keep+Learning+%F0%9F%93%9A+%7C+Stay+Inspired+%E2%9C%A8" />
 </p>
